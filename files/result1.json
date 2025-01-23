@@ -1,0 +1,30 @@
+{
+  "initTime": 95,
+  "result": [
+    {
+      "search": "Bower",
+      "result": [
+        "4275"
+      ],
+      "time": 6
+    },
+    {
+      "search": "Asa",
+      "result": [
+        "9825",
+        "2299",
+        "11921",
+        "2108"
+      ],
+      "time": 4
+    },
+    {
+      "search": "Ret",
+      "result": [
+        "1769",
+        "513"
+      ],
+      "time": 2
+    }
+  ]
+}
